@@ -1,0 +1,6 @@
+{
+  "name": "Rentora - Car Rental Management System",
+  "description": "Comprehensive, modern SaaS platform for car rental fleet operations, bookings, handover, returns, inspections, payments, invoices, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
